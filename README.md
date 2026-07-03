@@ -1,1 +1,85 @@
-# Problem_Solving
+# 🚀 Problem Solving
+
+A collection of my solutions to various Data Structures & Algorithms (DSA) problems from different coding platforms. This repository serves as my personal practice log and helps me improve problem-solving skills, algorithmic thinking, and coding efficiency.
+
+---
+
+## 📌 Platforms
+
+- 🟢 LeetCode
+- 🔵 Codeforces (Coming Soon)
+- 🟠 CodeChef (Coming Soon)
+- 🟣 AtCoder (Coming Soon)
+
+---
+
+## 📂 Repository Structure
+
+```text
+Problem_Solving/
+│
+├── leet/
+│   ├── 169.py
+│   ├── ...
+│
+├── README.md
+├── LICENSE
+└── .gitignore
+```
+
+---
+
+## 🛠️ Languages Used
+
+- Python 🐍
+
+> More languages will be added in the future.
+
+---
+
+## 🎯 Goals
+
+- Solve Data Structures & Algorithms (DSA) problems consistently.
+- Improve problem-solving and logical thinking skills.
+- Master algorithms and data structures.
+- Prepare for coding interviews and competitive programming.
+- Track learning progress over time.
+
+---
+
+## 📈 Progress
+
+| Platform   | Solved |
+| ---------- | ------ |
+| LeetCode   | 1+     |
+| Codeforces | 0      |
+| CodeChef   | 0      |
+| AtCoder    | 0      |
+
+---
+
+## 📖 Problem List
+
+| Problem No. | Title            | Difficulty | Language |
+| ----------- | ---------------- | ---------- | -------- |
+| 169         | Majority Element | Easy       | Python   |
+
+---
+
+## 🤝 Contributions
+
+This repository is maintained for learning and practice. Suggestions, improvements, and discussions are always welcome.
+
+---
+
+## ⭐ Support
+
+If you find this repository useful, consider giving it a ⭐ on GitHub!
+
+---
+
+## 👨‍💻 Author
+
+**Mirza Aliun Tauhid**
+
+GitHub: **https://github.com/ryzen-Y**

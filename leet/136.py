@@ -9,6 +9,6 @@ class Solution(object):
             else:
                 count[i] = 1
 
-        for i in count:
-            if count[i] == 1:
-                return i
+        for _ in count:
+            if count[_] == 1:
+                return _

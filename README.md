@@ -51,7 +51,7 @@ Problem_Solving/
 
 | Platform   | Solved |
 | ---------- | ------ |
-| LeetCode   | 4      |
+| LeetCode   | 5      |
 | Codeforces | 0      |
 | CodeChef   | 0      |
 | AtCoder    | 0      |
@@ -60,12 +60,13 @@ Problem_Solving/
 
 ## 📖 Problem List
 
-| Problem No. | Title               | Difficulty | Language |
-| ----------- | ------------------- | ---------- | -------- |
-| 1           | Two Sum             | Easy       | Python   |
-| 58          | Length of Last Word | Easy       | Python   |
-| 136         | Single Number       | Easy       | Python   |
-| 169         | Majority Element    | Easy       | Python   |
+| Problem No. | Title                                              | Difficulty | Language |
+| ----------- | -------------------------------------------------- | ---------- | -------- |
+| 1           | Two Sum                                            | Easy       | Python   |
+| 58          | Length of Last Word                                | Easy       | Python   |
+| 136         | Single Number                                      | Easy       | Python   |
+| 169         | Majority Element                                   | Easy       | Python   |
+| 1299        | Replace Elements with Greatest Element on Right Side | Easy     | Python   |
 ---
 
 ## 🤝 Contributions

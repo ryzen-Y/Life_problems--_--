@@ -49,7 +49,7 @@ Problem_Solving/
 
 | Platform   | Solved |
 | ---------- | ------ |
-| LeetCode   | 6      |
+| LeetCode   | 7      |
 | Codeforces | 0      |
 | CodeChef   | 0      |
 | AtCoder    | 0      |
@@ -62,6 +62,7 @@ Problem_Solving/
 | ----------- | ---------------------------------------------------- | ---------- | -------- |
 | 1           | Two Sum                                              | Easy       | Python   |
 | 58          | Length of Last Word                                  | Easy       | Python   |
+| 88          | Merge Sorted Array                                   | Easy       | Python   |
 | 136         | Single Number                                        | Easy       | Python   |
 | 169         | Majority Element                                     | Easy       | Python   |
 | 1299        | Replace Elements with Greatest Element on Right Side | Easy       | Python   |

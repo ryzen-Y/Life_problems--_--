@@ -45,13 +45,11 @@ Problem_Solving/
 - Prepare for coding interviews and competitive programming.
 - Track learning progress over time.
 
----
-
 ## 📈 Progress
 
 | Platform   | Solved |
 | ---------- | ------ |
-| LeetCode   | 5      |
+| LeetCode   | 6      |
 | Codeforces | 0      |
 | CodeChef   | 0      |
 | AtCoder    | 0      |
@@ -60,13 +58,15 @@ Problem_Solving/
 
 ## 📖 Problem List
 
-| Problem No. | Title                                              | Difficulty | Language |
-| ----------- | -------------------------------------------------- | ---------- | -------- |
-| 1           | Two Sum                                            | Easy       | Python   |
-| 58          | Length of Last Word                                | Easy       | Python   |
-| 136         | Single Number                                      | Easy       | Python   |
-| 169         | Majority Element                                   | Easy       | Python   |
-| 1299        | Replace Elements with Greatest Element on Right Side | Easy     | Python   |
+| Problem No. | Title                                                | Difficulty | Language |
+| ----------- | ---------------------------------------------------- | ---------- | -------- |
+| 1           | Two Sum                                              | Easy       | Python   |
+| 58          | Length of Last Word                                  | Easy       | Python   |
+| 136         | Single Number                                        | Easy       | Python   |
+| 169         | Majority Element                                     | Easy       | Python   |
+| 1299        | Replace Elements with Greatest Element on Right Side | Easy       | Python   |
+| 2965        | Find Missing and Repeated Values                     | Easy       | Python   |
+
 ---
 
 ## 🤝 Contributions

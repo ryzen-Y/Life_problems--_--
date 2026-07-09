@@ -1,3 +1,6 @@
+from typing import List
+
+
 class Solution:
     def countSeniors(self, details: List[str]) -> int:
         index = 11

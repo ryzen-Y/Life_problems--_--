@@ -49,7 +49,7 @@ Problem_Solving/
 
 | Platform   | Solved |
 | ---------- | ------ |
-| LeetCode   | 7      |
+| LeetCode   | 9      |
 | Codeforces | 0      |
 | CodeChef   | 0      |
 | AtCoder    | 0      |
@@ -62,11 +62,13 @@ Problem_Solving/
 | ----------- | ---------------------------------------------------- | ---------- | -------- |
 | 1           | Two Sum                                              | Easy       | Python   |
 | 58          | Length of Last Word                                  | Easy       | Python   |
-| 88          | Merge Sorted Array                                   | Easy       | Python   |
 | 136         | Single Number                                        | Easy       | Python   |
 | 169         | Majority Element                                     | Easy       | Python   |
 | 1299        | Replace Elements with Greatest Element on Right Side | Easy       | Python   |
 | 2965        | Find Missing and Repeated Values                     | Easy       | Python   |
+| 3442        | Maximum Difference Between Even and Odd Frequency I  | Easy       | Python   |
+| 14          | Longest Common Prefix                                | Easy       | Python   |
+| 121         | Best Time to Buy and Sell Stock                      | Easy       | Python   |
 
 ---
 

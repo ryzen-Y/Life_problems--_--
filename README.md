@@ -49,7 +49,7 @@ Problem_Solving/
 
 | Platform   | Solved |
 | ---------- | ------ |
-| LeetCode   | 9      |
+| LeetCode   | 13     |
 | Codeforces | 0      |
 | CodeChef   | 0      |
 | AtCoder    | 0      |
@@ -61,14 +61,18 @@ Problem_Solving/
 | Problem No. | Title                                                | Difficulty | Language |
 | ----------- | ---------------------------------------------------- | ---------- | -------- |
 | 1           | Two Sum                                              | Easy       | Python   |
+| 9           | Palindrome Number                                    | Easy       | Python   |
+| 14          | Longest Common Prefix                                | Easy       | Python   |
+| 26          | Remove Duplicates from Sorted Array                  | Easy       | Python   |
+| 27          | Remove Element                                       | Easy       | Python   |
 | 58          | Length of Last Word                                  | Easy       | Python   |
+| 88          | Merge Sorted Array                                   | Easy       | Python   |
 | 136         | Single Number                                        | Easy       | Python   |
 | 169         | Majority Element                                     | Easy       | Python   |
+| 392         | Is Subsequence                                       | Easy       | Python   |
 | 1299        | Replace Elements with Greatest Element on Right Side | Easy       | Python   |
+| 2678        | Number of Senior Citizens                            | Easy       | Python   |
 | 2965        | Find Missing and Repeated Values                     | Easy       | Python   |
-| 3442        | Maximum Difference Between Even and Odd Frequency I  | Easy       | Python   |
-| 14          | Longest Common Prefix                                | Easy       | Python   |
-| 121         | Best Time to Buy and Sell Stock                      | Easy       | Python   |
 
 ---
 

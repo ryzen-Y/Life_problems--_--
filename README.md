@@ -49,7 +49,7 @@ Problem_Solving/
 
 | Platform   | Solved |
 | ---------- | ------ |
-| LeetCode   | 13     |
+| LeetCode   | 16     |
 | Codeforces | 0      |
 | CodeChef   | 0      |
 | AtCoder    | 0      |
@@ -65,15 +65,17 @@ Problem_Solving/
 | 14          | Longest Common Prefix                                | Easy       | Python   |
 | 26          | Remove Duplicates from Sorted Array                  | Easy       | Python   |
 | 27          | Remove Element                                       | Easy       | Python   |
+| 35          | Search Insert Position                               | Easy       | Python   |
 | 58          | Length of Last Word                                  | Easy       | Python   |
+| 66          | Plus One                                             | Easy       | Python   |
 | 88          | Merge Sorted Array                                   | Easy       | Python   |
 | 136         | Single Number                                        | Easy       | Python   |
 | 169         | Majority Element                                     | Easy       | Python   |
+| 268         | Missing Number                                       | Easy       | Python   |
 | 392         | Is Subsequence                                       | Easy       | Python   |
 | 1299        | Replace Elements with Greatest Element on Right Side | Easy       | Python   |
 | 2678        | Number of Senior Citizens                            | Easy       | Python   |
 | 2965        | Find Missing and Repeated Values                     | Easy       | Python   |
-
 ---
 
 ## 🤝 Contributions

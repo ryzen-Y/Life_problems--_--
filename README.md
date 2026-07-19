@@ -49,7 +49,7 @@ Problem_Solving/
 
 | Platform   | Solved |
 | ---------- | ------ |
-| LeetCode   | 16     |
+| LeetCode   | 21     |
 | Codeforces | 0      |
 | CodeChef   | 0      |
 | AtCoder    | 0      |
@@ -69,13 +69,19 @@ Problem_Solving/
 | 58          | Length of Last Word                                  | Easy       | Python   |
 | 66          | Plus One                                             | Easy       | Python   |
 | 88          | Merge Sorted Array                                   | Easy       | Python   |
+| 121         | Best Time to Buy and Sell Stock                      | Easy       | Python   |
 | 136         | Single Number                                        | Easy       | Python   |
 | 169         | Majority Element                                     | Easy       | Python   |
 | 268         | Missing Number                                       | Easy       | Python   |
+| 283         | Move Zeroes                                          | Easy       | Python   |
+| 349         | Intersection of Two Arrays                           | Easy       | Python   |
 | 392         | Is Subsequence                                       | Easy       | Python   |
 | 1299        | Replace Elements with Greatest Element on Right Side | Easy       | Python   |
+| 1351        | Count Negative Numbers in a Sorted Matrix            | Easy       | Python   |
+| 1365        | How Many Numbers Are Smaller Than the Current Number | Easy       | Python   |
 | 2678        | Number of Senior Citizens                            | Easy       | Python   |
 | 2965        | Find Missing and Repeated Values                     | Easy       | Python   |
+
 ---
 
 ## 🤝 Contributions

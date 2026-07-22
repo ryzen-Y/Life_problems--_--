@@ -8,3 +8,11 @@ class Solution:
             nums[i] = nums[i]**2
 
         return sorted(nums)
+
+
+# =========== Improved ===========
+
+
+class Solution:
+    def sortedSquares(self, nums: List[int]) -> List[int]:
+        return sorted(num*num for num in nums)

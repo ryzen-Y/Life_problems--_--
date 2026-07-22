@@ -1,15 +1,14 @@
 class Solution:
     def findNumbers(self, nums: List[int]) -> int:
         count = 0
-        digit_list = []
+        digits = 0
 
         for i in nums:
-            digit_list = []
+            digits = 0
             while i > 0:
-                digit = i % 10
                 i = i // 10
-                digit_list.append(digit)
+                digits += 1
 
-            if len(digit_list) % 2 == 0:
+            if digits % 2 == 0:
                 count += 1
         return count

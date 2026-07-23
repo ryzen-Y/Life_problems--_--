@@ -7,6 +7,7 @@ class Solution:
         file = {}
 
         for i in range(len(nums)):
+
             if nums[i] in file:
                 if i - file[nums[i]] <= k:
                     return True
